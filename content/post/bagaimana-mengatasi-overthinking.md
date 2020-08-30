@@ -6,9 +6,9 @@ author: Zen
 # authorlink: https://author.site
 cover: /laura-chouette-Hj8eZ_wK1eM-unsplash.jpg
 categories:
-  - category1
+  - psikologi
 tags:
-  - tag1
+  - pikiran
 # showcase: true
 draft: true
 ---
@@ -17,7 +17,7 @@ Overthinking adalah salah satu efek dari kehidupan manusia modern. Apa itu overt
 
 <!--more-->
 
-Overthinking itu adalah saat di mana kita memikirkan _sesuatu yang nggak perlu dipikirkan_. Tentu ini sangat berkaitan dengan kehidupan modern kita di mana segala informasi dengan sangat mudah kita dapatkan. Buka Youtube, langsung disuguhkan dengan berbagai macam video yang memang kita suka yang diperoleh dari algoritma canggih Google untuk memetakan setiap perilaku manusia. Setelah kita menonton satu video, muncul lagi tuh video berikutnya. Begitu aja terus nggak ada habisnya. Soalnya kan setiap kita nonton video, ada banyak video yang diupload juga.
+Overthinking itu adalah saat di mana kita memikirkan _sesuatu yang nggak perlu dipikirkan_. Tentu ini sangat berkaitan dengan kehidupan modern kita di mana segala informasi dengan sangat mudah kita dapatkan. Buka Youtube, langsung disuguhkan dengan berbagai macam video yang memang kita suka yang diperoleh dari algoritma canggih Google untuk memetakan setiap perilaku manusia. Setelah kita menonton satu video, muncul lagi tuh video berikutnya. Begitu aja terus nggak ada habisnya. Soalnya kan setiap kita nonton video, ada banyak video yang diupload juga. Belum lagi dengan media sosial lainnya yang nggak kalah ributnya. Contoh saja Twitter yang terkenal sebagai media sosial yang paling ribut. Karena fiturnya yang membatasi teks, maka tiap detik selalu aja ada yang baru di Twitter. Dan ini biasanya yang membuat seseorang yang nggak biasa pakai Twitter mulai jenuh. Capek. 
 
 ## Atribusi
 
