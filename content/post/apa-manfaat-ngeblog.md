@@ -1,7 +1,7 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: Apa Manfaat Ngeblog
+date: 2020-08-30T03:13:21Z
+lastmod: 2020-08-30T03:13:21Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg

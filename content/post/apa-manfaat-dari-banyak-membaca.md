@@ -1,7 +1,7 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: Apa Manfaat Dari Banyak Membaca
+date: 2020-08-30T06:13:12Z
+lastmod: 2020-08-30T06:13:12Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg

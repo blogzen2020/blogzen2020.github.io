@@ -1,5 +1,5 @@
 ---
-title: Bagaimanakah Caranya Menghafal Quran?
+title: Bagaimanakah Caranya Menghafal Quran
 date: 2020-08-30T02:44:39Z
 lastmod: 2020-08-30T02:44:39Z
 author: Zen
@@ -10,10 +10,10 @@ categories:
 tags:
   - menghafal
 # showcase: true
-draft: false
+draft: true
 ---
 
-Cut out summary from your post content here.
+Menghafal Quran adalah pekerjaan yang mulia. Bagaimana tidak? Soalnya kan yang dihafal itu adalah kalamullah
 
 <!--more-->
 

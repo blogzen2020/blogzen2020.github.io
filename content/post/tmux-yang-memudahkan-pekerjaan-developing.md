@@ -1,7 +1,7 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: Tmux Yang Memudahkan Pekerjaan Developing
+date: 2020-08-30T06:13:32Z
+lastmod: 2020-08-30T06:13:32Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
