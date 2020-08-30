@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Zen</title><link>https://blogzen2020.github.io/categories/</link><description>Recent content in Categories on Zen</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">&lt;img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />&lt;/a>&lt;br />Licence by &lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY NC SA 4.0</copyright><atom:link href="https://blogzen2020.github.io/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Zen</title>
+    <link>https://blogzen2020.github.io/categories/</link>
+    <description>Recent content in Categories on Zen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Licence by &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons BY NC SA 4.0</copyright>
+    
+	<atom:link href="https://blogzen2020.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
