@@ -4,7 +4,7 @@ defaultContentLanguage = "id"
 title = "Zen"
 theme = "hugo-theme-dream"
 
-copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY NC SA 4.0'
+copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Licence by <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY NC SA 4.0'
 
 googleAnalytics = "UA-98295641-1"
 
