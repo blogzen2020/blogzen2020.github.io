@@ -1,6 +1,6 @@
 baseURL = "https://blogzen2020.github.io"
-languageCode = "id"
-defaultContentLanguage = "id"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "Zen"
 theme = "hugo-theme-dream"
 
@@ -32,7 +32,7 @@ hasCJKLanguage = true
 
   author = "Zen"
   description = "Zen"
-  avatar = "/yy.jpg"
+  avatar = "/pp.jpg"
   motto = "cepat tepat tuntas"
   categoriesLimitInHeader = 6
   # headerBottomText = ""

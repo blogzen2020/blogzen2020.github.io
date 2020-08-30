@@ -1,14 +1,14 @@
 ---
-title: Hello World
-date: 2020-08-30T01:58:32Z
-lastmod: 2020-08-30T01:58:32Z
+title: Bagaimanakah Caranya Menghafal Quran?
+date: 2020-08-30T02:44:39Z
+lastmod: 2020-08-30T02:44:39Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
 categories:
-  - category1
+  - quran
 tags:
-  - tag1
+  - menghafal
 # showcase: true
 draft: false
 ---
