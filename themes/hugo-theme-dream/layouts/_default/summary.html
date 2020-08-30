@@ -9,7 +9,12 @@
 
   <div class="content">
     <h2 class="ui medium header">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <a href="{{ .Permalink }}">
+       {{ .Title }}
+       {{ if eq .Draft true }}
+        <mark>(draft)</mark>
+       {{ end }}
+      </a>
     </h2>
     <div class="meta">
       <p class="date">

@@ -23,6 +23,9 @@
       <header style="margin-top: 0 !important;">
         <h1 class="ui large header">
           {{ .Title }}
+          {{ if eq .Draft true }}
+           <mark>(draft)</mark>
+          {{ end }}
           <div class="sub header">
             @
             {{ if isset .Params "author" }}

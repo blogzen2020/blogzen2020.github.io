@@ -14,7 +14,7 @@ enableRobotsTXT = true
 
 hasCJKLanguage = true
 
-# Paginate = 4
+Paginate = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -70,3 +70,5 @@ hasCJKLanguage = true
   darkLinkColor = "darkseagreen"
   darkNav = true
   dark404 = true
+[permalinks]
+  post = "/:title"
