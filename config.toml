@@ -71,4 +71,4 @@ Paginate = 10
   darkNav = true
   dark404 = true
 [permalinks]
-  post = "/:title"
+  post = "/:filename"
