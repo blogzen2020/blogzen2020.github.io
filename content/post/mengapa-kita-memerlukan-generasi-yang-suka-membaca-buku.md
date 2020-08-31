@@ -13,8 +13,8 @@ tags:
 draft: true
 ---
 
-Cut out summary from your post content here.
+Pembaca buku adalah manusia-manusia langka di zaman yang serba digital sekarang ini.
 
 <!--more-->
 
-The remaining content of your post.
+Apa sih yang membedakan pembaca buku dengan orang yang nggak suka baca buku? Apakah dari segi wawasan atau dari segi _kelihatan cerdasnya_? Ya... nggak juga sih. Mau itu pembaca buku ataupun pembaca Facebook, sama aja sih kelihatannya. Nah terus, apa sih yang membedakannya?
