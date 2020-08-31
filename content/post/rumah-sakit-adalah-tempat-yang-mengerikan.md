@@ -1,10 +1,10 @@
 ---
-title: Tmux Yang Memudahkan Pekerjaan Developing
-date: 2020-08-30T06:13:32Z
-lastmod: 2020-08-30T06:13:32Z
+title: Rumah Sakit Adalah Tempat Yang Mengerikan
+date: 2020-08-31T06:46:16Z
+lastmod: 2020-08-31T06:46:16Z
 author: Zen
 # authorlink: https://author.site
-cover: /IMG_20200831_111026.jpg
+cover: /img/avatar.jpg
 categories:
   - category1
 tags:
