@@ -13,6 +13,9 @@
         display: block;
         margin: auto;
       }
+      svg {
+       max-width: 100%;
+      }
     </style>
   </head>
 
@@ -42,8 +45,11 @@
       {{ partial "search.html" . }}
     {{ end }}
 
+    {{ if not .Site.IsServer }}
     {{ if .Site.GoogleAnalytics }}
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
+    {{ end }}
+    <script src="/mermaid.min.js"></script>
   </body>
 </html>
