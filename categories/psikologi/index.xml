@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dunia Zen</title>
-    <link>https://duniazen.com/post/</link>
-    <description>Recent content in Posts on Dunia Zen</description>
+    <title>psikologi on Dunia Zen</title>
+    <link>https://duniazen.com/categories/psikologi/</link>
+    <description>Recent content in psikologi on Dunia Zen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Licence by &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons BY NC SA 4.0</copyright>
-    <lastBuildDate>Mon, 31 Aug 2020 21:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 21:24:59 +0000</lastBuildDate>
     
-	<atom:link href="https://duniazen.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://duniazen.com/categories/psikologi/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ssst... Domain .com cuma 50 ribu loh!</title>
-      <link>https://duniazen.com/domain-dotcom-hanya-50-ribu/</link>
-      <pubDate>Mon, 31 Aug 2020 21:25:22 +0000</pubDate>
-      
-      <guid>https://duniazen.com/domain-dotcom-hanya-50-ribu/</guid>
-      <description>&lt;p&gt;Memiliki domain .com sudah menjadi kebutuhan bagi para blogger. Kok bisa?&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Perempuan Dalam Panggung Pergerakan</title>
@@ -28,15 +19,6 @@
       
       <guid>https://duniazen.com/perempuan-dalam-panggung-pergerakan/</guid>
       <description>&lt;p&gt;Di manakah posisi perempuan dalam panggung pergerakan?&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Udah pada tau kah blogku yang baru ini?</title>
-      <link>https://duniazen.com/halo-semua/</link>
-      <pubDate>Mon, 31 Aug 2020 21:57:44 +0800</pubDate>
-      
-      <guid>https://duniazen.com/halo-semua/</guid>
-      <description>&lt;p&gt;Halo semua&amp;hellip;.&lt;/p&gt;</description>
     </item>
     
   </channel>
