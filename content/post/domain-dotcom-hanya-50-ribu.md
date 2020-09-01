@@ -9,6 +9,7 @@ categories:
   - blog
 tags:
   - deploy
+  - blogger
 # showcase: true
 draft: true
 ---
@@ -79,26 +80,6 @@ Pertama, buka dulu dashboard Blogger lalu menuju ke bagian `Setelan`.
 ![Bagian setting Blogger](/IMG_20200901_172501.jpg)
 
 Kemudian klik `Domain kustom`.
-
-## Alihkan http otomatis ke https
-
-Untuk mengalihkan http ke https secara otomatis, pertama buka dulu [dashboard Cloudflarenya](https://dash.cloudflare.com).
-
-![Tampilan dashboard Cloudflare](/IMG_20200901_112630.jpg)
-
-Lalu klik nama domainnya. Kalau di sini, namanya `duniazen.com`.
-
-![Masih di dashboard Cloudflare](/IMG_20200901_171443.jpg)
-
-Setelah itu, klik SSL.
-
-![Cloudflare SSL](/IMG_20200901_171650.jpg)
-
-Klik `Edge Certificates`.
-
-![Cloudflare](/IMG_20200901_171811.jpg)
-
-Jadikan `on` pada bagian `Always Use HTTPS`.
 
 ## Atribusi
 
