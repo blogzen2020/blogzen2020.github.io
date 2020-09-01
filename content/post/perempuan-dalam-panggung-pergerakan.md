@@ -1,5 +1,5 @@
 ---
-title: Perempuan Dalam Panggung Pergerakan
+title: Perempuan ikut demo? Emang pantas?
 date: 2020-08-31T21:24:59Z
 lastmod: 2020-08-31T21:24:59Z
 author: Zen
