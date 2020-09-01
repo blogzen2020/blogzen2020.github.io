@@ -33,6 +33,7 @@
     {{ end }}
   </section>
 
+  {{ if not .Site.IsServer }}
   {{ if findRE "posts/.+" .RelPermalink }}
   {{ else }}
     {{ if and .Site.DisqusShortname  }}
@@ -61,5 +62,6 @@
         </footer>
       </section>
     {{ end }}
+  {{ end }}
   {{ end }}
 </div>
