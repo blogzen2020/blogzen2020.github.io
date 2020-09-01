@@ -17,7 +17,7 @@ Memiliki domain .com sudah menjadi kebutuhan bagi para blogger. Kok bisa?
 
 <!--more-->
 
-Tentu karena dengan memiliki domain .com, akam dengan sangat mudah menerima berbagai tawaran ala-ala blogger seperti content placement, product review, book review, link placement, dll.
+Tentu karena dengan memiliki domain .com, akan dengan sangat mudah menerima berbagai tawaran ala-ala blogger seperti content placement, product review, book review, link placement, dll.
 
 Ya, nggak mesti .com sih. Intinya ya domain-domain TLD (top level domain) akan lebih mudah menerima tawaran kerja sama ala-ala blogger tadi. Katanya sih, daftar di Google Adsense juga lebih mudah kalau domainnya itu TLD.
 
