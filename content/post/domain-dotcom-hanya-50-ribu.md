@@ -11,7 +11,7 @@ tags:
   - deploy
   - blogger
 # showcase: true
-draft: true
+draft: false
 ---
 
 Memiliki domain .com sudah menjadi kebutuhan bagi para blogger. Kok bisa?
@@ -79,7 +79,83 @@ Pertama, buka dulu dashboard Blogger lalu menuju ke bagian `Setelan`.
 
 ![Bagian setting Blogger](/IMG_20200901_172501.jpg)
 
-Kemudian klik `Domain kustom`.
+Kemudian klik `Domain kustom`. Maka akan muncul:
+
+![Dialog masukkan custom domain](/IMG_20200901_215402.jpg)
+
+Nah, di bagian inputan itu kamu isi dengan nama domain yang **sudah** kamu pesan. Kalau di contoh itu, aku sudah memesan `www.hellohello2020.com` (**jangan lupakan `www`**).
+
+Klik `SIMPAN`.
+
+![Error saat pasang custom domain](/IMG_20200901_215834.jpg)
+
+Maka, akan muncul pesan error. Nah, di pesan error ini, kita ambil beberapa hal penting aja yaitu:
+
+| Nama | Tujuan |
+|---|---|
+| www | ghs.google.com |
+| x664ampdtepe | gv-livnrnrfonsgai.dv.googlehosted.com |
+
+Nah, empat teks itu jangan lupa dicatat ya. Bisa dicatat di WA atau di notes HP.
+
+Kemudian, kita buka [dashboard Cloudflarenya](https://dash.cloudflare.com).
+
+![Dashboard Cloudflare](/IMG_20200901_220612.jpg)
+
+Klik nama domain yang udah kamu pesan tadi (di sini, aku berarti ngeklik `duniazen.com`).
+
+> Anggap aja `duniazen.com` itu `hellohello2020.com`. Hehhehehe...
+
+![Overview Cloudflare](/IMG_20200901_220929.jpg)
+
+Klik `DNS`.
+
+![Tambah record DNS](/IMG_20200901_222009.jpg)
+
+Klik `Add record`.
+
+Lalu, masukkan teks seperti di bawah ini:
+
+![Mulai isi record DNS](/IMG_20200901_222214.jpg)
+
+Yang perlu diperhatikan adalah _pastikan awannya yang berada di atas tombol Save itu **berwarna abu-abu**. Kalau belum, klik aja awannya_.
+
+Kemudian, isi record berikutnya:
+
+![Record kedua](/IMG_20200901_222545.jpg)
+
+Darimana huruf-huruf itu? Nah, coba cek lagi error yang diberikan oleh Blogger tadi:
+
+| Nama | Tujuan |
+|---|---|
+| www | ghs.google.com |
+| x664ampdtepe | gv-livnrnrfonsgai.dv.googlehosted.com |
+
+Nah, kita ambilnya dari situ.
+
+Kemudian, masukkan juga:
+
+![A record pertama](/IMG_20200901_223028.jpg)
+
+![A record kedua](/IMG_20200901_223050.jpg)
+
+![A record ketiga](/IMG_20200901_223105.jpg)
+
+![A record keempat](/IMG_20200901_223115.jpg)
+
+Kalau sudah, kembali ke Setelan Blogger lalu masukkan lagi kustom domainnya:
+
+![Dialog masukkan custom domain](/IMG_20200901_215402.jpg)
+
+Lalu klik `SIMPAN`.
+
+Sudah selesai? Ya sudah sih.
+
+Jangan lupa juga buat setting `situs.com` diredirect ke `www.situs.com` dan diaktifin HTTPSnya:
+
+![Finishing](/IMG_20200901_224313.jpg)
+
+> Itu nama blognya anggap aja `hellohello2020.com` ya. Hehhehe...
 
 ## Atribusi
 
