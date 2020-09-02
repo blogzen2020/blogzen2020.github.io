@@ -151,6 +151,8 @@ Lalu klik `SIMPAN`.
 
 Sudah selesai? Ya sudah sih.
 
+> Tapi, kalau ada error, coba dihapus dulu kode-kodenya baru diisi lagi.
+
 Jangan lupa juga buat setting `situs.com` diredirect ke `www.situs.com` dan diaktifin HTTPSnya:
 
 ![Finishing](/IMG_20200901_224313.jpg)

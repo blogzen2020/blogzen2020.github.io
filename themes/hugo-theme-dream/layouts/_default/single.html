@@ -48,7 +48,11 @@
         <img class="ui image" style="margin-top: 2rem;" src="{{ .Params.Cover }}" />
       {{ end }}
 
-      <article style="margin-top: 2rem;">{{ .Content | emojify }}</article>
+      <article style="margin-top: 2rem;">
+       <h2 class="daftar-isi">Daftar isi</h2>
+       {{ .TableOfContents }}
+       {{ .Content | emojify }}
+      </article>
     </section>
 
     <footer class="ui attached segment dream-tags">
