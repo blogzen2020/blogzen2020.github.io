@@ -180,8 +180,10 @@
 
 
           var disqus_config = function () {
-            this.page.url = 'https:\/\/duniazen.com\/halo-semua\/';  
-            this.page.identifier = '\/halo-semua\/'; 
+            this.page.url = location.href;  
+            
+            
+            this.page.identifier = location.href; 
           };
 
           (function() { 
@@ -487,8 +489,8 @@
 
 
             var disqus_config = function () {
-              this.page.url = 'https:\/\/duniazen.com\/halo-semua\/';  
-              this.page.identifier = '/'; 
+              this.page.url = location.href;  
+              this.page.identifier = location.href; 
             };
 
             (function() { 
