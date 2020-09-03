@@ -10,7 +10,7 @@ categories:
 tags:
   - pandemi
 # showcase: true
-draft: true
+draft: false
 ---
 
 > Saat kondisi terjepit, manusia menjadi kreatif.
@@ -34,6 +34,8 @@ Kalau untuk memberikan kuis, bisa menggunakan Google Form maupun Kahoot. Nah, ka
 Anak-anak SD Baitul Izzah yang merupakan tempat mengajar istriku, menggunakan Kahoot untuk memberikan soal. Jadi, sistem pembelajarannya itu, anak membaca materi palajaran yang diberikan oleh guru. Biasanya hanya satu halaman supaya nggak berat.
 
 Setelah itu, anak mengisi kuis yang sesuai dengan materi pelajaran menggunakan aplikasi Kahoot. Dengan aplikasi ini, anak akan merasa tidak seperti mengerjakan kuis, melainkan seperti bermain game.
+
+Maka, nggak ada alasan lagi bagi kita menyerah dengan keadaan ini. Apalagi sekarang kita memasuki era [new normal](https://www.angrumaoshi.com) atau adaptasi kebiasaan baru, tentu kita harus semangat menjalani hari sebagaimana keseharian kita sebelum Corona menyerang.
 
 ## Atribusi
 
