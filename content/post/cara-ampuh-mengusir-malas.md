@@ -19,15 +19,13 @@ Jawabannya adalah tidak ada.
 
 Iya beneran nggak ada. Kalau kamu sudah malas, nggak ada yang bisa menyelamatkanmu. Entah itu mamamu, pamanmu, pasanganmu. Kamu nggak terselamatkan!
 
-Lalu, siapa yang bisa menyelamatkanmu? Dirimy sendiri? Yakin? Seberapa besar motivasi yang ada di dalam dirimu untuk **mengakhiri** rasa malas? Apakah sungguh-sungguh? Apakah kamu sudah _nyaman_ dengan rasa malas?
+Lalu, siapa yang bisa menyelamatkanmu? Dirimu sendiri? Yakin? Seberapa besar motivasi yang ada di dalam dirimu untuk **mengakhiri** rasa malas? Apakah sungguh-sungguh? Apakah kamu sudah _nyaman_ dengan rasa malas?
 
 > Bukan zona nyaman. Tapi zona susah. Dianya aja yang nggak ngerasa.
 
 Malas adalah stagnasi. Berlaku postulat I Newton: **Materi yang bergerak akan senantiasa bergerak. Materi yang diam akan senantiasa diam**. Itulah teori kelembaman. Atau yang biasa kita sebut dengan stagnasi; kemalasan. Kalai kita malas, maka akan senantiasa malas. Kalau kita rajin, maka akan senantiasa rajin.
 
 Nemu kuncinya?
-
-
 
 ## Atribusi
 
