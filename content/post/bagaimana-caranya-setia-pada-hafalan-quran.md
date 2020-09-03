@@ -10,7 +10,7 @@ categories:
 tags:
   - kenangan
 # showcase: true
-draft: true
+draft: false
 ---
 
 Menghafal Quran berarti menjaganya.
@@ -59,7 +59,7 @@ Teruslah murajaah walaupun lelahnya sama seperti hafalan baru. Karena kita nggak
 
 <div class="mermaid">
 graph LR
-a[Hafidz Quran] --> b[Penjaga Quran] & c[Kesetiaan] & d[Kesabaran] & e[Tiada lelah yang mampu menghalangi] --> f[Ridha Allah]
+a[Hafidz Quran] --> b[Penjaga Quran] & c[Kesetiaan] & d[Kesabaran]
 </div>
 
 ## Atribusi
