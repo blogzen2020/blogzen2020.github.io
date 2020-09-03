@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-> Saat kondisi terjepit, manusia menjadi kreatif.
+Saat kondisi terjepit, manusia menjadi kreatif.
 
 <!--more-->
 

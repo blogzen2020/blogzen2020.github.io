@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-> Bangun untuk berangkat kerja aja bisa. Bangun untuk shalat Subuh kok susah?
+Bangun untuk berangkat kerja aja bisa. Bangun untuk shalat Subuh kok susah?
 
 <!--more-->
 
