@@ -28,7 +28,7 @@ Sebenarnya pertanyaan-pertanyaan itu akan membentuk pernyataan yang menjebak. Ji
 
 > Seperti itukah caramu menghargai perempuan?
 
-Dan berbagai statement tidak menyenangkan lainnya.
+Dan berbagai statement tidak menyenangkan lainnya. 
 
 Namun, kalau kita membiarkan para perempuan beraktivitas layaknya laki-laki, maka yang terjadi adalah _kehilangan fitrah seorang perempuan_.
 
