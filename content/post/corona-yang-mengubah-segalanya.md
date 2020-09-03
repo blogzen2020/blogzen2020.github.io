@@ -35,7 +35,7 @@ Anak-anak SD Baitul Izzah yang merupakan tempat mengajar istriku, menggunakan Ka
 
 Setelah itu, anak mengisi kuis yang sesuai dengan materi pelajaran menggunakan aplikasi Kahoot. Dengan aplikasi ini, anak akan merasa tidak seperti mengerjakan kuis, melainkan seperti bermain game.
 
-Maka, nggak ada alasan lagi bagi kita menyerah dengan keadaan ini. Apalagi sekarang kita memasuki era [new normal](https://www.angrumaoshi.com) atau adaptasi kebiasaan baru, tentu kita harus semangat menjalani hari sebagaimana keseharian kita sebelum Corona menyerang.
+Maka, nggak ada alasan lagi bagi kita menyerah dengan keadaan ini. Apalagi sekarang kita memasuki era [kehidupan dengan adaptasi kebiasaan baru (new normal)](https://www.angrumaoshi.com), tentu kita harus semangat menjalani hari sebagaimana keseharian kita sebelum Corona menyerang.
 
 ## Atribusi
 
