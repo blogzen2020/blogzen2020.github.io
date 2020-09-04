@@ -43,7 +43,13 @@ Untuk beristirahat, terdiri dari dua jenis; istirahat panjang dan istirahat sebe
 
 ### Istirahat panjang
 
+Istirahat panjang adalah istirahat total di malam hari. Karena bamanya juga istirahat, apalagi istirahat total, maka, kita harus benar-benar berhenti dari segala kegiatan.
+
+Contoh kegiatan-kegiatan yang harus segera kita hentikan adalah bermain laptop, bermain HP, dan kegiatan lainnya. Sebenarnya sih semua kegiatan, supaya esok paginya kita fresh beraktivitas.
+
 ### Istirahat sebentar
+
+Mengerjakan segala sesuatu dengan bersemangat kadang membuat lelah. Kita ingin beristirahat tapi takut kerjaan nggak selesai. Terus gimana?
 
 ## Atribusi
 
