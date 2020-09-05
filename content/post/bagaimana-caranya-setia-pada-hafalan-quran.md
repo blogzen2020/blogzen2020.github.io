@@ -57,10 +57,10 @@ Dan nggak semua orang bisa melakukannya. Jadi, kamu adalah orang-orang terbaik j
 
 Teruslah murajaah walaupun lelahnya sama seperti hafalan baru. Karena kita nggak tau apakah diri kita layak menempati jannahnya. Maka, berharaplah bahwa dengan kesetiaan kita pada Quran, Allah meridhai kehadiran kita.
 
-<div class="mermaid">
+{{<mermaid>}}
 graph LR
 a[Hafidz Quran] --> b[Penjaga Quran] & c[Kesetiaan] & d[Kesabaran]
-</div>
+{{</mermaid>}}
 
 ## Atribusi
 

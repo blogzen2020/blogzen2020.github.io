@@ -58,10 +58,10 @@ Bukankan setiap manusia itu sama. Aku dan kamu sama. Kaya dan miskin sama. Tingg
 
 Nah, kembali ke pernyataan bahwa _semua manusia itu sama_. Mengapa sama? Bukankah kita melihat bahwasanya kita sama-sama punya jasad, akal, dan ruh. Itulah yang membentuk keutuhan kita sebagai manusia.
 
-<div class="mermaid">
+{{<mermaid>}}
 graph LR
 a[Manusia] --> b[Jasad] & c[Akal] & d[Ruh]
-</div>
+{{</mermaid>}}
 
 Namun, persamaan manusia ini **bukanlah persamaan gender**. So, buat apa sih menyempitkan sesuatu yang sangat luas untuk sesuatu yang luang lingkupnya kecil?
 
