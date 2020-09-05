@@ -34,7 +34,7 @@ Paginate = 10
   description = "Zen"
   avatar = "/pp.jpg"
   motto = "cepat tepat tuntas"
-  categoriesLimitInHeader = 6
+  categoriesLimitInHeader = 20
   # headerBottomText = ""
 
   rss = true

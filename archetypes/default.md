@@ -6,9 +6,9 @@ author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
 categories:
-  - category1
+  - psikologi
 tags:
-  - tag1
+  - filsafat
 # showcase: true
 draft: true
 ---
