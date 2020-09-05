@@ -27,7 +27,8 @@ Sebenarnya sih nggak ada yang salah dengan memikirkan banyak hal. Bagus malah. T
 
 - Apakah yang terjadi jika aku melajukan motor lebih cepat dua kilometer per jam jika dibandingkan seperti biasanya?
 - Apa yang terjadi jika percepatan gravitasi bukanlah 9,8 m/s<sup>2</sup> melainkan 11 m/s<sup>2</sup>?
-- 
+
+Pertanyaan-pertanyaan yang nggan penting banget ya? Hehheheh... Maksudnya kan, kita tinggal nerima aja gitu bahwa gravitasi bumi 9,8 m/s<sup>2</sup>, nggak usah mikir aneh-aneh. Hehehhe...
 
 ## Atribusi
 
