@@ -5,11 +5,8 @@ lastmod: 2020-08-31T21:25:22Z
 author: Zen
 # authorlink: https://author.site
 cover: /arnel-hasanovic-MNd-Rka1o0Q-unsplash.jpg
-categories:
-  - blog
 tags:
-  - deploy
-  - blogger
+  - blogspot
 # showcase: true
 draft: false
 ---

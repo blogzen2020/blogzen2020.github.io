@@ -5,10 +5,8 @@ lastmod: 2020-09-04T02:18:55Z
 author: Zen
 # authorlink: https://author.site
 cover: /masjid-pogung-dalangan-GGtHPUYx6oI-unsplash.jpg
-categories:
-  - quran
 tags:
-  - menghafal
+  - tahfidz
 # showcase: true
 draft: true
 ---

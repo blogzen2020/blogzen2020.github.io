@@ -5,10 +5,8 @@ lastmod: 2020-09-03T17:44:47Z
 author: Zen
 # authorlink: https://author.site
 cover: /abbie-bernet-y8OPPvo_5mU-unsplash.jpg
-categories:
-  - psikologi
 tags:
-  - produktivitas
+  - psikologi
 # showcase: true
 draft: true
 ---

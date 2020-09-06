@@ -5,10 +5,8 @@ lastmod: 2020-08-30T06:13:32Z
 author: Zen
 # authorlink: https://author.site
 cover: /IMG_20200831_111026.jpg
-categories:
-  - linux
 tags:
-  - produktivitas
+  - linux
 # showcase: true
 draft: false
 ---

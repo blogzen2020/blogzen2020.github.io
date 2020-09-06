@@ -5,10 +5,8 @@ lastmod: 2020-09-06T05:16:27Z
 author: Zen
 # authorlink: https://author.site
 cover: /IMG_20200906_132429.jpg
-categories:
-  - blog
 tags:
-  - blogger
+  - blogspot
 # showcase: true
 draft: false
 ---

@@ -5,10 +5,8 @@ lastmod: 2020-09-03T13:01:45Z
 author: Zen
 # authorlink: https://author.site
 cover: /thomas-jensen-QABDpFYhNpk-unsplash.jpg
-categories:
-  - blog
 tags:
-  - deploy
+  - hugo
 # showcase: true
 draft: false
 ---

@@ -5,10 +5,8 @@ lastmod: 2020-09-03T07:29:25Z
 author: Zen
 # authorlink: https://author.site
 cover: /nick-morrison-FHnnjk1Yj7Y-unsplash.jpg
-categories:
-  - website
 tags:
-  - writing
+  - menulis
 # showcase: true
 draft: true
 ---

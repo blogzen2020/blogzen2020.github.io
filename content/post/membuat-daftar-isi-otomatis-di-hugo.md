@@ -5,10 +5,8 @@ lastmod: 2020-09-03T19:27:49Z
 author: Zen
 # authorlink: https://author.site
 cover: /patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg
-categories:
-  - blog
 tags:
-  - writing
+  - hugo
 # showcase: true
 draft: false
 ---

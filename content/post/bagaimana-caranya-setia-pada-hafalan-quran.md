@@ -5,10 +5,8 @@ lastmod: 2020-09-04T00:40:38+08:00
 author: Zen
 # authorlink: https://author.site
 cover: /marc-olivier-jodoin-TStNU7H4UEE-unsplash.jpg
-categories:
-  - quran
 tags:
-  - kenangan
+  - tahfidz
 # showcase: true
 draft: false
 ---

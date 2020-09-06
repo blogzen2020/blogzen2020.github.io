@@ -5,10 +5,8 @@ lastmod: 2020-08-31T21:57:44+08:00
 author: Zen
 # authorlink: https://author.site
 cover: /alexander-krivitskiy-NBvsCoTCqFg-unsplash.jpg
-categories:
-  - blog
 tags:
-  - perkenalan
+  - psikologi
 # showcase: true
 draft: false
 ---

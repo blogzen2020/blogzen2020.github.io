@@ -5,10 +5,8 @@ lastmod: 2020-09-04T09:33:46Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
-categories:
-  - linux
 tags:
-  - filsafat
+  - psikologi
 # showcase: true
 draft: true
 ---

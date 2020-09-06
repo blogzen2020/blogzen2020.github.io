@@ -27,9 +27,11 @@
       <a class="item" href="{{ "tags" | relLangURL }}">
         <i class="tags icon" title="{{ T "allTags" }}"></i>
       </a>
+      <!--
       <a class="item" href="{{ "categories" | relLangURL }}">
         <i class="th list icon" title="{{ T "allCategories" }}"></i>
       </a>
+      -->
     </div>
   </section>
 
@@ -41,6 +43,7 @@
   </section>
   {{ end }}
 
+  <!--
   {{ if .Site.Taxonomies.categories }}
   <section class="ui attached segment dream-categories">
     <div class="ui accordion">
@@ -80,6 +83,7 @@
     </div>
   </section>
   {{ end }}
+  -->
 
   <section class="ui attached segment header-socials">
     {{ partial "socials.html" (dict "Site" .Site "IconSize" "") }}

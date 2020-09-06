@@ -5,10 +5,8 @@ lastmod: 2020-09-04T09:46:19Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
-categories:
-  - category1
 tags:
-  - tag1
+  - psikologi
 # showcase: true
 draft: true
 ---

@@ -5,10 +5,8 @@ lastmod: 2020-08-30T06:51:09Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
-categories:
-  - category1
 tags:
-  - tag1
+  - tahfidz
 # showcase: true
 draft: true
 ---

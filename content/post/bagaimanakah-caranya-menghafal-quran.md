@@ -5,10 +5,8 @@ lastmod: 2020-08-30T02:44:39Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
-categories:
-  - quran
 tags:
-  - menghafal
+  - tahfidz
 # showcase: true
 draft: true
 ---

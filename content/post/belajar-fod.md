@@ -5,10 +5,8 @@ lastmod: 2020-09-06T01:01:16Z
 author: Zen
 # authorlink: https://author.site
 cover: /fod.png
-categories:
-  - psikologi
 tags:
-  - filsafat
+  - psikologi
 # showcase: true
 draft: true
 ---

@@ -5,10 +5,8 @@ lastmod: 2020-09-02T22:25:06Z
 author: Zen
 # authorlink: https://author.site
 cover: /windows-TDxxQuVTKMA-unsplash.jpg
-categories:
-  - peristiwa
 tags:
-  - pandemi
+  - psikologi
 # showcase: true
 draft: false
 ---

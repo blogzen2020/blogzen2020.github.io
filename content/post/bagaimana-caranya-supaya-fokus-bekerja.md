@@ -5,10 +5,8 @@ lastmod: 2020-08-30T03:12:36Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
-categories:
-  - psikologi
 tags:
-  - pikiran
+  - psikologi
 # showcase: true
 draft: true
 ---

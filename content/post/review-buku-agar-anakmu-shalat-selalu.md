@@ -5,10 +5,8 @@ lastmod: 2020-09-01T20:40:22Z
 author: Zen
 # authorlink: https://author.site
 cover: /IMG_20200902_044118.jpg
-categories:
-  - review buku
 tags:
-  - agama
+  - review buku
 # showcase: true
 draft: false
 ---

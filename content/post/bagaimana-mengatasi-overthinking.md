@@ -5,10 +5,8 @@ lastmod: 2020-08-30T06:53:24Z
 author: Zen
 # authorlink: https://author.site
 cover: /laura-chouette-Hj8eZ_wK1eM-unsplash.jpg
-categories:
-  - psikologi
 tags:
-  - pikiran
+  - psikologi
 # showcase: true
 draft: true
 ---

@@ -5,11 +5,8 @@ lastmod: 2020-08-31T21:24:59Z
 author: Zen
 # authorlink: https://author.site
 cover: /lucia-48UaeIMNAA4-unsplash.jpg
-categories:
-  - psikologi
 tags:
-  - gender
-  - filsafat
+  - psikologi
 # showcase: true
 draft: false
 ---

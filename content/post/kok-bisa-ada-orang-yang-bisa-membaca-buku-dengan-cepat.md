@@ -5,10 +5,8 @@ lastmod: 2020-09-01T20:03:21Z
 author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
-categories:
-  - category1
 tags:
-  - tag1
+  - membaca
 # showcase: true
 draft: true
 ---

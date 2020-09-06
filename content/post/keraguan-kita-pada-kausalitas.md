@@ -5,10 +5,8 @@ lastmod: 2020-09-06T00:42:21Z
 author: Zen
 # authorlink: https://author.site
 cover: /bruce-mars-xj8qrWvuOEs-unsplash.jpg
-categories:
-  - psikologi
 tags:
-  - filsafat
+  - psikologi
 # showcase: true
 draft: false
 ---

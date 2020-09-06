@@ -5,10 +5,8 @@ lastmod: 2020-09-05T23:51:37Z
 author: Zen
 # authorlink: https://author.site
 cover: /gaelle-marcel-YnbJwNXy0YQ-unsplash.jpg
-categories:
-  - psikologi
 tags:
-  - filsafat
+  - psikologi
 # showcase: true
 draft: false
 ---

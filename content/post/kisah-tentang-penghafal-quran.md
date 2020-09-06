@@ -5,10 +5,8 @@ lastmod: 2020-09-04T00:20:35+08:00
 author: Zen
 # authorlink: https://author.site
 cover: /the-dancing-rain-N1xBagwnR1E-unsplash.jpg
-categories:
-  - quran
 tags:
-  - kenangan
+  - tahfidz
 # showcase: true
 draft: true
 ---

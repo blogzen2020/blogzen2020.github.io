@@ -5,10 +5,8 @@ lastmod: 2020-09-05T11:35:44Z
 author: Zen
 # authorlink: https://author.site
 cover: /taylor-wright-i-CiAEAVusI-unsplash.jpg
-categories:
-  - psikologi
 tags:
-  - blogger
+  - menulis
 # showcase: true
 draft: false
 ---

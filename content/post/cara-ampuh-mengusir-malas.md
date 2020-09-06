@@ -5,10 +5,8 @@ lastmod: 2020-09-01T17:10:03Z
 author: Zen
 # authorlink: https://author.site
 cover: /alex-west-813xiLfBXE0-unsplash.jpg
-categories:
-  - psikologi
 tags:
-  - perilaku
+  - psikologi
 # showcase: true
 draft: true
 ---
