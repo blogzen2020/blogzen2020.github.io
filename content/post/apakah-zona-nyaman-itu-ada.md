@@ -10,14 +10,30 @@ categories:
 tags:
   - filsafat
 # showcase: true
-draft: true
+draft: false
 ---
 
-Cut out summary from your post content here.
+Emang ada?
 
 <!--more-->
 
-The remaining content of your post.
+Sering banget ya kita mendengar motivator-motivator berkata **tinggalkan zona nyamanmu!** Lalu, pertanyaannya adalah kita meninggalkan zona nyaman, ke mana? Apakah kita meninggalkan zona nyaman menuju ke zona nyaman juga?
+
+{{<mermaid>}}
+graph LR
+a(Nyaman) --> b(Nyaman) --> a
+{{</mermaid>}}
+
+Ngeloop yang nggak ada akhirnya...
+
+Lalu, apakah dari zona nyaman ke zona susah? Nggak juga kan?
+
+Sebenarnya sih yang lebih tepat itu keluar dari **zona susah** ke **zona nyaman**. Jadi kan, arahnya itu jelas.
+
+{{<mermaid>}}
+graph LR
+a(Susah) --> b(Nyaman)
+{{</mermaid>}}
 
 ## Atribusi
 
