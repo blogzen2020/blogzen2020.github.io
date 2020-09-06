@@ -1,10 +1,10 @@
 ---
-title: Merawat Blog Seperti Merawat Anak
-date: 2020-09-05T11:37:40Z
-lastmod: 2020-09-05T11:37:40Z
+title: Belajar FOD
+date: 2020-09-06T01:01:16Z
+lastmod: 2020-09-06T01:01:16Z
 author: Zen
 # authorlink: https://author.site
-cover: /img/avatar.jpg
+cover: /fod.png
 categories:
   - psikologi
 tags:
@@ -13,12 +13,12 @@ tags:
 draft: true
 ---
 
-Halo
-
-{{<youtube xtcvM3s1I1s>}}
-
 Cut out summary from your post content here.
 
 <!--more-->
 
 The remaining content of your post.
+
+## Atribusi
+
+<https://www.google.com/amp/s/kakakdikes.wordpress.com/2015/06/10/flow-of-document-flowchart-system-context/amp/>
