@@ -5,7 +5,7 @@ lastmod: {{ .Date }}
 author: Zen
 cover: /img/avatar.jpg
 tags:
-  - hugo
+  - psikologi
 draft: true
 ---
 

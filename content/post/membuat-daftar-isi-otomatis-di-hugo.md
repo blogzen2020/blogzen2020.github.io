@@ -6,7 +6,7 @@ author: Zen
 # authorlink: https://author.site
 cover: /patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg
 tags:
-  - hugo
+  - dunia frontend
 # showcase: true
 draft: false
 ---

@@ -6,7 +6,7 @@ author: Zen
 # authorlink: https://author.site
 cover: /IMG_20200906_132429.jpg
 tags:
-  - blogspot
+  - literasi
 # showcase: true
 draft: false
 ---

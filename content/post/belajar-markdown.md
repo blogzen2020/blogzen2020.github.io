@@ -6,7 +6,7 @@ author: Zen
 # authorlink: https://author.site
 cover: /nick-morrison-FHnnjk1Yj7Y-unsplash.jpg
 tags:
-  - menulis
+  - literasi
 # showcase: true
 draft: true
 ---

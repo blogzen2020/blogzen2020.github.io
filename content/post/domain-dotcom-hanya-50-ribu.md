@@ -6,7 +6,7 @@ author: Zen
 # authorlink: https://author.site
 cover: /arnel-hasanovic-MNd-Rka1o0Q-unsplash.jpg
 tags:
-  - blogspot
+  - literasi
 # showcase: true
 draft: false
 ---

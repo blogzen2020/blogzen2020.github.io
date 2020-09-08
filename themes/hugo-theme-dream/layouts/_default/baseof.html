@@ -8,20 +8,6 @@
 
     {{ partial "head.html" . }}
     {{ block "css" . }} {{ end }}
-    <style type="text/css">
-      #dream-save-post-as-img img {
-        display: block;
-        margin: auto;
-      }
-      svg {
-       max-width: 100%;
-       display: block;
-       margin: auto;
-      }
-      th:empty {
-      	display: none;
-      }
-    </style>
   </head>
 
   {{ if .Site.Params.background }}

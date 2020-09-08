@@ -1,13 +1,11 @@
 ---
-title: Bagaimana Cara Membaca Buku
-date: 2020-08-30T08:43:42Z
-lastmod: 2020-08-30T08:43:42Z
+title: Apa Yang Dicari Manusia Dalam Kehidupan
+date: 2020-09-06T10:02:59Z
+lastmod: 2020-09-06T10:02:59Z
 author: Zen
-# authorlink: https://author.site
 cover: /img/avatar.jpg
 tags:
-  - literasi
-# showcase: true
+  - psikologi
 draft: true
 ---
 

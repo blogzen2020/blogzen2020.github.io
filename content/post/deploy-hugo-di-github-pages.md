@@ -6,7 +6,7 @@ author: Zen
 # authorlink: https://author.site
 cover: /thomas-jensen-QABDpFYhNpk-unsplash.jpg
 tags:
-  - hugo
+  - dunia frontend
 # showcase: true
 draft: false
 ---

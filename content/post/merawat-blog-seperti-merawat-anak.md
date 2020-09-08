@@ -6,7 +6,7 @@ author: Zen
 # authorlink: https://author.site
 cover: /img/avatar.jpg
 tags:
-  - menulis
+  - literasi
 # showcase: true
 draft: true
 ---

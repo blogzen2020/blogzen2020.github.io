@@ -26,6 +26,7 @@
 <link rel="stylesheet" href="{{ "/css/semantic.min.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "/css/OverlayScrollbars.min.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "/css/site.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/github-markdown.css" | relURL }}" />
 
 {{ if .Site.Params.linkColor }}
 <style>
@@ -42,3 +43,18 @@
   }
 </style>
 {{ end }}
+
+<style type="text/css">
+  #dream-save-post-as-img img {
+    display: block;
+    margin: auto;
+  }
+  svg {
+   max-width: 100%;
+   display: block;
+   margin: auto;
+  }
+  th:empty {
+  	display: none;
+  }
+</style>

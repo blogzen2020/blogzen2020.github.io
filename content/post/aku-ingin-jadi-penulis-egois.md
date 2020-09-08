@@ -6,7 +6,7 @@ author: Zen
 # authorlink: https://author.site
 cover: /taylor-wright-i-CiAEAVusI-unsplash.jpg
 tags:
-  - menulis
+  - literasi
 # showcase: true
 draft: false
 ---
