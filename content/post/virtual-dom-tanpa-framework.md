@@ -1,7 +1,7 @@
 ---
 title: Virtual DOM tanpa framework
-date: 2020-09-06T10:43:28Z
-lastmod: 2020-09-09T10:43:28Z
+date: 2020-09-08T18:07:10Z
+lastmod: 2020-09-08T18:07:10Z
 author: Zen
 cover: /Screenshot_2020-09-08_22-43-36.png
 tags:
