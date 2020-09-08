@@ -15,7 +15,7 @@ OTW Linux lah.
 
 Virus adalah sebuah program komputer yang digunakan untuk merusak targetnya. Metode pengrusakannya pun beraneka macam. Ada virus yang hanya menyisipkan iklan di komputer korban, disebut dengan virus Ads. Ada virus yang menghubungkan jaringan target ke komputer hacker, virus ini bernama Trojan. Ada pula virus yang membuat semua folder dan file menjadi shortcut. Nama virusnya adalah Worm. Hingga yang paling menjadi mimpi buruk akhir-akhir ini: Ransomware!
 
-Lalu, yang menjadi pertanyaan adalah **Apakah virus hanya menyerang sistem operasi Wondows?** Lalu, bagaimana dengan Linux? Apakah Linux nggak ada virusnya?
+Lalu, yang menjadi pertanyaan adalah **Apakah virus hanya menyerang sistem operasi Windows?** Lalu, bagaimana dengan Linux? Apakah Linux nggak ada virusnya?
 
 Kalau dilihat dari definisi di atas bahwasanya virus hanyalah _sebuah program komputer_, maka tentu saja Linux juga bisa terserang virus. Tapi, kenapa kok seolah-olah bahwa virus hanya menyerang Windows?
 

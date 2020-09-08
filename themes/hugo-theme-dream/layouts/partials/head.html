@@ -26,6 +26,7 @@
 <link rel="stylesheet" href="{{ "/css/semantic.min.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "/css/OverlayScrollbars.min.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "/css/site.css" | relURL }}" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css">
 
 {{ if .Site.Params.linkColor }}
 <style>
@@ -55,5 +56,11 @@
   }
   th:empty {
   	display: none;
+  }
+  /* Specify in CSS */
+  code { font-family: 'Fira Code', monospace !important; }
+
+  @supports (font-variation-settings: normal) {
+    code { font-family: 'Fira Code VF', monospace !important; }
   }
 </style>
