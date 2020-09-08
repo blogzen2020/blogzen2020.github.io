@@ -3,7 +3,7 @@ title: Virtual DOM tanpa framework
 date: 2020-09-06T10:43:28Z
 lastmod: 2020-09-06T10:43:28Z
 author: Zen
-cover: /img/avatar.jpg
+cover: /Screenshot_2020-09-08_22-43-36.png
 tags:
   - dunia frontend
 draft: true
@@ -13,7 +13,13 @@ Bisakah kita meninggalkan Vue, React, dan Angular?
 
 <!--more-->
 
+React sebagai library Javascript buatan Facebook hadir dengan konsep virtual DOM di mana data dari DOM di HTML diolah oleh Javascript. Lalu, diikuti oleh framework Javascript lainnya yaitu Vue dan Angular yang juga mengadopsi virtual DOM dengan teknik yang berbeda. Kalau React itu full Javascript, artinya HTML dan CSS juga dimasukkan ke dalam Javascript, kalau Vue dan Angular, dipisah HTML, CSS, dan Javascriptnya.
+
+Virtual DOM membuat kita lebih mudah dalam membuat dan memantainance suatu aplikasi. Namun, kelemahan dari virtual DOM adalah ukurannya yang besar sehingga muncul pertanyaan dari benak kita: Ada nggak sih caranya menerapkan teknik virtual DOM tanpa harus meload library/framework Javascript terlebih dahulu? Untuk saat ini, yang terpikir olehku adalah dengan menggunakan API `querySelector` dan `querySelectorAll`.
+
 ## Contoh dari _Virtual DOM_ tanpa framework
+
+Seperti ini contoh dari penerapan virtual DOM tanpa meload library/framework Javascript:
 
 <table>
  <tbody>
@@ -32,6 +38,8 @@ Bisakah kita meninggalkan Vue, React, dan Angular?
   }
  }
 </script>
+
+Jadi, ketika kita memencet angka `tambah` maka akan bertambah angka yang ada di tengah dan jika memencet angka `kurang` maka akan berkurang angka yang ada di tengah.
 
 ## Kodenya
 
