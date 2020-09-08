@@ -1,7 +1,7 @@
 ---
 title: Semua Orang Bisa Menghafal Quran
 date: 2020-09-04T02:18:55Z
-lastmod: 2020-09-04T02:18:55Z
+lastmod: 2020-09-07T02:18:55Z
 author: Zen
 # authorlink: https://author.site
 cover: /masjid-pogung-dalangan-GGtHPUYx6oI-unsplash.jpg

@@ -1,6 +1,6 @@
 baseURL = "https://duniazen.com"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "id"
+defaultContentLanguage = "id"
 title = "Dunia Zen"
 theme = "hugo-theme-dream"
 

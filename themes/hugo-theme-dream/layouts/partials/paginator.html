@@ -8,6 +8,9 @@
     </div>
   </div>
 </article>
+ {{ if .paginator.HasNext }}
+  <br>
+ {{ end }}
 {{ end }}
 
 {{ if .paginator.HasNext }}

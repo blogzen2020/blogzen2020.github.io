@@ -1,0 +1,56 @@
+[blogAlias]
+other = " "
+
+[home]
+other = "Beranda"
+
+[backToHome]
+other = "Kembali ke beranda"
+
+[flip]
+other = "Balik!"
+
+[archives]
+other = "Arsip"
+
+[allTags]
+other = "Semua tag"
+
+[tag]
+one = "tag"
+other = "{{ .Count }} tag"
+
+[allCategories]
+other = "Semua kategori"
+
+[category]
+one = "kategori"
+other = "{{ .Count }} kategori"
+
+[article]
+one = "1 artikel"
+other = "{{ .Count }} artikel"
+
+[socialLinks]
+other = "Link Medsos"
+
+[minuteRead]
+other = " menit membaca"
+
+[updateAt]
+other = "Diupdate pada"
+
+[noTag]
+other = "Nggak Ada Tag"
+
+[prevPage]
+other = "Halaman sebelumnya"
+
+[nextPage]
+other = "Halaman setelahnya"
+
+[saveAsImage]
+other = "Simpan sebagai gambar"
+
+[search]
+other = "Cari"

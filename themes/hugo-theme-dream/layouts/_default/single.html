@@ -37,9 +37,20 @@
             {{ else }}
               {{ .Site.Params.author }}
             {{ end }}
-            · {{ .Date.Format "Monday, Jan 2, 2006" }}
+            · 
+            {{ if eq .Site.Language.Lang "id" }}
+             {{ index .Site.Data.id.Weekday (printf "%d" .Date.Weekday) }}, {{ .Date.Day }} {{ index .Site.Data.id.Month (printf "%d" .Date.Month) }} {{ .Date.Year }}
+            {{ else }}
+             {{ .Date.Format "Monday, Jan 2, 2006" }}
+            {{ end }}
             · {{ .ReadingTime }}{{ i18n "minuteRead" }}
-            · {{ i18n "updateAt" }} {{ dateFormat "Jan 2, 2006" .Lastmod }}
+            · {{ i18n "updateAt" }} 
+            {{ if eq .Site.Language.Lang "id" }}
+             {{ index .Site.Data.id.Weekday (printf "%d" .Lastmod.Weekday) }}, {{ .Lastmod.Day }} {{ index .Site.Data.id.Month (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }}
+            {{ else }}
+             {{ .Date.Format "Monday, Jan 2, 2006"  .Lastmod }}
+            {{ end }}
+            <!--{{ dateFormat "Jan 2, 2006" .Lastmod }}-->
           </div>
         </h1>
       </header>
