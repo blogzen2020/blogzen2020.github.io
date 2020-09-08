@@ -1,12 +1,12 @@
 ---
 title: Virtual DOM tanpa framework
 date: 2020-09-06T10:43:28Z
-lastmod: 2020-09-06T10:43:28Z
+lastmod: 2020-09-09T10:43:28Z
 author: Zen
 cover: /Screenshot_2020-09-08_22-43-36.png
 tags:
   - dunia frontend
-draft: true
+draft: false
 ---
 
 Bisakah kita meninggalkan Vue, React, dan Angular?
