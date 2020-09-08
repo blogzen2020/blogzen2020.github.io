@@ -48,7 +48,7 @@
         <img class="ui image" style="margin-top: 2rem;" src="{{ .Params.Cover }}" />
       {{ end }}
 
-      <article style="margin-top: 2rem;">
+      <article style="margin-top: 2rem;" class="isi-artikel">
        <h2 class="daftar-isi">Daftar isi</h2>
        {{ .TableOfContents }}
        {{ .Content | emojify }}
@@ -56,13 +56,18 @@
        	<p>Jangan lupa follow <a href="https://www.facebook.com/duniazenblog/">fanpage Facebook</a> kita ya...</p>
        </blockquote>
       </article>
-      <script>
-       if (document.querySelector("#TableOfContents").innerText.length == 0){
-        document.querySelector(".daftar-isi").style.display = "none"
-       }
-      </script>
-      <script async src="/mermaid.min.js"></script>
     </section>
+     <script>
+      if (document.querySelector("#TableOfContents").innerText.length == 0){
+       document.querySelector(".daftar-isi").style.display = "none"
+      }
+     </script>
+     <script async src="/mermaid.min.js"></script>
+     <style>
+      #TableOfContents + p {
+       font-style: italic;
+      }
+     </style>
 
     <footer class="ui attached segment dream-tags">
       {{ if isset .Params "tags" }}
