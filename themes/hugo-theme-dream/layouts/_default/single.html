@@ -3,16 +3,20 @@
 {{ end }}
 
 {{ define "css" }}
-<link rel="stylesheet" href="{{ "/css/github-markdown.css" | relURL }}" />
+  <link rel="stylesheet" href="{{ "/css/github-markdown.css" | relURL }}" />
 
-{{ if .Site.Params.highlightjs }}
-  {{ if .Site.Params.highlightjsTheme }}
-    <link rel="stylesheet" data-highlight href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/styles/{{ .Site.Params.highlightjsTheme }}.min.css" />
-  {{ else }}
-    <link rel="stylesheet" data-highlight href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/styles/default.min.css" />
+  {{ if .Site.Params.highlightjs }}
+    {{ if .Site.Params.highlightjsTheme }}
+      <link rel="stylesheet" data-highlight href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/styles/{{ .Site.Params.highlightjsTheme }}.min.css" />
+    {{ else }}
+      <link rel="stylesheet" data-highlight href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/styles/default.min.css" />
+    {{ end }}
   {{ end }}
-{{ end }}
-
+  <style>
+    #TableOfContents + p {
+     font-style: italic;
+    }
+  </style>
 {{ end }}
 
 {{ define "main" }}
@@ -63,6 +67,8 @@
        <h2 class="daftar-isi">Daftar isi</h2>
        {{ .TableOfContents }}
        {{ .Content | emojify }}
+       <h2>Tulisan lainnya</h2>
+       <div class="tulisan-lainnya"></div>
       </article>
     </section>
 
@@ -137,19 +143,41 @@
 {{ end }}
 
 {{ define "js" }}
-<script src="{{ "/js/html2canvas.min.js" | relURL }}"></script>
-<script src="{{ "/js/post.js" | relURL }}"></script>
+  <script src="{{ "/js/html2canvas.min.js" | relURL }}"></script>
+  <script src="{{ "/js/post.js" | relURL }}"></script>
 
-{{ if .Site.Params.highlightjs }}
-  <script src="{{ if .Site.Params.highlightjsCDN }}{{ .Site.Params.highlightjsCDN }}{{ else }}{{ "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js" }}{{ end}}"></script>
+  {{ if .Site.Params.highlightjs }}
+    <script src="{{ if .Site.Params.highlightjsCDN }}{{ .Site.Params.highlightjsCDN }}{{ else }}{{ "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js" }}{{ end}}"></script>
 
-  {{ if .Site.Params.highlightjsExtraLanguages }}
-    {{ range .Site.Params.highlightjsExtraLanguages }}
-      <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/languages/{{ . }}.min.js"></script>
-    {{ end }} 
+    {{ if .Site.Params.highlightjsExtraLanguages }}
+      {{ range .Site.Params.highlightjsExtraLanguages }}
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/languages/{{ . }}.min.js"></script>
+      {{ end }} 
+    {{ end }}
+
+    {{ partial "highlight.html" . }}
   {{ end }}
 
-  {{ partial "highlight.html" . }}
-{{ end }}
-
+  <script>
+    if (document.querySelector("#TableOfContents").innerText.length == 0){
+     document.querySelector(".daftar-isi").style.display = "none"
+    }
+  </script>
+  <script async src="/mermaid.min.js"></script>
+  <script type="text/javascript">
+    {{ if isset .Params "tags" }}
+      {{ range $tag := .Params.tags }}
+        tag = '{{ $tag | urlize }}'.replace(/\-/g, ' ')
+      {{ end }}
+    {{ end }}
+    fetch('/index.json').then(x => x.json()).then(x => {
+      x = x.filter(y => y.tags[0] == tag)
+      x.sort((a, b) => Math.random() - 0.5)
+      x = x.slice(0, 5)
+      tulisan_lainnya = '<ul>'
+      x.forEach(y => tulisan_lainnya += `<li><a href='${y.url}'>${y.title}</a></li>`)
+      tulisan_lainnya += '</ul>'
+      document.querySelector('.tulisan-lainnya').innerHTML = tulisan_lainnya
+    })
+  </script>
 {{ end }}

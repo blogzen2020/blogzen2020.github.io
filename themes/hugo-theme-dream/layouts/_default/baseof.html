@@ -47,16 +47,5 @@
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
     {{ end }}
-     <script>
-      if (document.querySelector("#TableOfContents").innerText.length == 0){
-       document.querySelector(".daftar-isi").style.display = "none"
-      }
-     </script>
-     <script async src="/mermaid.min.js"></script>
-     <style>
-      #TableOfContents + p {
-       font-style: italic;
-      }
-     </style>
   </body>
 </html>
