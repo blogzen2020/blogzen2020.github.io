@@ -1,12 +1,12 @@
 ---
 title: Keuntungan menjadi guru tahfidz
-date: 2020-09-10T15:08:59Z
-lastmod: 2020-09-10T15:08:59Z
+date: 2020-09-10T16:25:51Z
+lastmod: 2020-09-10T16:25:51Z
 author: Zen
 cover: /the-dancing-rain-6oseYaKKAVU-unsplash.jpg
 tags:
   - tahfidz
-draft: true
+draft: false
 ---
 
 Apa yang membuat tugas sebagai guru tahfidz sangat diidamkan?
