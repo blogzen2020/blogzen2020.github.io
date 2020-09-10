@@ -1,5 +1,5 @@
 ---
-title: Mengapa Kita Suka Berteriak
+title: Mengapa kita suka berteriak?
 date: 2020-09-10T08:30:45Z
 lastmod: 2020-09-10T08:30:45Z
 author: Zen
