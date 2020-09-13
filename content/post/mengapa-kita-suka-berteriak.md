@@ -1,12 +1,12 @@
 ---
 title: Mengapa kita suka berteriak?
-date: 2020-09-10T08:30:45Z
-lastmod: 2020-09-10T08:30:45Z
+date: 2020-09-13T22:24:19Z
+lastmod: 2020-09-13T22:24:19Z
 author: Zen
 cover: /sophie-dale-ovuTeeIm_0M-unsplash.jpg
 tags:
   - psikologi
-draft: true
+draft: false
 ---
 
 Padahal aku di hadapanmu...
