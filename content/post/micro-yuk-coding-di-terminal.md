@@ -1,12 +1,12 @@
 ---
 title: "Micro: Nulis buku dengan Terminal!"
-date: 2020-09-11T00:24:33Z
-lastmod: 2020-09-11T00:24:33Z
+date: 2020-09-15T06:55:21Z
+lastmod: 2020-09-15T06:55:21Z
 author: Zen
 cover: /IMG_20200911_085735.jpg
 tags:
   - linux
-draft: true
+draft: false
 ---
 
 Nggak cuma Word yang bisa dipakai ngetik...
@@ -16,8 +16,6 @@ Nggak cuma Word yang bisa dipakai ngetik...
 Yang menjadi kendala untuk mengetik di Terminal adalah karena nggak terbiasa. Misalnya aja Vim. Untuk keluar dari Vim, perintahnya itu `:wq`. Kan nggak biasa. Udah gitu juga, untuk berganti antara mode nulis dan mode scroll juga ada keyboard shortcutnya sendiri.
 
 ![Jokes Vim](/BgxWBRxjvNhnbM9DiyHtCptYaDNF3xx85r8if8spuMjfmZn5JXvqcsPohH4878fNXPfVCfqSxhRvwnT4GrsVFKSKeXbSssSPRQfULmyWfYjtoS4UHcaXn2pJb1eAppS2eFWDgo8tooi4EQqcDqsoDJqpAjeJQVz16eyQ4dyMEi5aHyp.jpeg)
-
-## Kisah awal bagaimana aku menemukan Micro
 
 ## Menginstall Micro
 
