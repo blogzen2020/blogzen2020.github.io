@@ -1,12 +1,12 @@
 ---
 title: Mudahnya Membuat Frontend Web dengan Svelte JS
-date: 2020-09-15T19:26:25+08:00
-lastmod: 2020-09-15T19:26:25+08:00
+date: 2020-09-15T19:05:47Z
+lastmod: 2020-09-15T19:05:47Z
 author: Zen
-cover: /img/avatar.jpg
+cover: /ferenc-almasi-fhAfLtHToCs-unsplash.jpg
 tags:
-  - psikologi
-draft: true
+  - dunia frontend
+draft: false
 ---
 
 Write less, do more!
@@ -74,3 +74,7 @@ npx degit sveltejs/template nama-projectnya
 ```
 
 Kemudian, masuk ke `nama-projectnya` baru setelah itu ketikkan `npm i`.
+
+## Atribusi
+
+<https://unsplash.com/photos/fhAfLtHToCs?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink>
